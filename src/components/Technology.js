@@ -4,7 +4,7 @@ import News from './News'
 const Technology = () => {
   return (
     <div>
-      <News URL="https://newsapi.org/v2/everything?q=technology&apiKey=2cca05cdb1e1497ba7d3276a0755d07b"/>
+      <News URL="https://newsapi.org/v2/everything?q=technology&apiKey=dfcef6aa18164b279fe80d5e33f11a9d"/>
     </div>
   )
 }
